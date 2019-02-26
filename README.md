@@ -1,5 +1,5 @@
 # PyTorch JIT Experiments
-Test for running a PyTorch Module in C++
+Test for running a PyTorch Module（ResNet 18） in C++
 
 ## img-bin
 Convert a image file to binary file.
