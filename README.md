@@ -6,6 +6,11 @@ Convert a image file to binary file.
 
 ## cpp-torch
 Run the model export by PyTorch using the image file or the preprocessed binary file.
+```
+cd build
+# Edit your Path to LibTorch in run.sh
+bash run.sh
+```
 
 ## Tests
 Using OpenCV to open a image and feed it to the model in C++ results in a slight difference in the output. 
