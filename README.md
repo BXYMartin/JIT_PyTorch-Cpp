@@ -6,7 +6,7 @@ Convert a image file to binary file.
 
 ## cpp-torch
 Run the model export by PyTorch using the image file or the preprocessed binary file.
-```
+``` bash
 cd build
 # Edit your Path to LibTorch in run.sh
 bash run.sh
